@@ -1,0 +1,91 @@
+in this section
+national transportation statistics
+nts datasets
+previous editions
+state transportation statistics
+county transportation statistics
+social and economic characteristics of the united states
+embedded dataset excel
+
+dataset excel
+key  na not applicable; r revised; u data are not available
+
+a estimates are as of july 1 for each year the numbers for each sub-category in each year may not add up to the total population due to rounding
+
+b new metropolitan area definitions were published by the office of management and budget omb in 2003 these definitions were applied to population data by the census bureau beginning with the data from the 2000 census a new term core based statistical areas cbsas collectively refers to metropolitan and micropolitan statistical areas a metropolitan statistical area is defined as having at least one urbanized area of 50000 or more inhabitants a micropolitan statistical area is defined as having at least one urban cluster of more than 10000 but less than 50000 inhabitants all geographic boundaries for the july 1 2009 population estimates series are defined as of january 1 2009  the office of management and budget's statistical area definitions for metropolitan and micropolitan statistical areas as well as metropolitan divisions are those issued by that agency in november 2008 the estimates for 2010-12 are based on the 2010 census and reflect changes to the april 1 2010 population due to the count question resolution program and geographic program revisions  the office of management and budget's statistical area delineations for metropolitan and micropolitan statistical areas as well as metropolitan divisions are those issued by that agency in february 2013 
+
+c numbers prior to 1999 are estimated to the nearest million
+
+d as of april 1 of year indicated the census bureau only tabulates urban rural numbers for the decennial census years
+
+e fiscal year ending september 30
+
+f the census bureau calculates square mileage comprising land and water area for the decennial census years  data for 1980 comprises land and inland water  data for 1990 comprises land great lakes inland water and coastal water  data for 2000 comprises land great lakes inland water territorial water and coastal water  
+
+g sums of chained-dollar estimates for individual industries do not add to national totals because the chain-type indices used to derive them are based on weights of more than one period  
+
+h converted to constant 2012 dollars by the bureau of transportation statistics using the cpi-u-rs price index
+
+source
+
+us resident population age sex region
+
+1980-2009 us census bureau population division population estimates as of nov 2 2015
+
+2010-20 us census bureau population division national population by characteristics available at of aug 23 2021
+
+us metropolitan areas micropolitan areas
+
+1980-2009 us census bureau population division population estimates as of nov 2 2015
+
+2010-19 us census bureau population division metropolitan and micropolitan statistical area datasets available at as of jun 3 2020
+
+rural urban
+
+1980-90 us census bureau statistical abstract of the united states 2000 washington dc 2001 table 37
+
+2000 us census bureau urban and rural total population p2 as of sept 25 2019
+
+2010-2019 us census bureau american community survey table dp05 1-year estimates profiles available at https//datacensusgovas of aug 27 2021
+
+regions
+
+1980-2009 us census bureau population division population estimates as of nov 2 2015
+
+2010-20 us census bureau population division annual estimates of the resident population available at https//wwwcensusgov/programs-surveys/popest/data/data-setshtml as of aug 27 2021
+
+immigrants
+
+us department of homeland security us citizenship and immigration services yearbook of immigration statistics washington dc annual issues table 1 available at https//wwwdhsgov/immigration-statistics/yearbook as of aug 23 2021
+
+total area
+
+1980-2010 us census bureau statistical abstract of the united states section 1 table 1 available at  https//wwwcensusgov/library/publications/time-series/statistical_abstractshtml as of dec 20 2017
+
+2018-19 us census bureau united states profiles available at https//datacensusgov/cedscias of aug 27 2021
+
+gross domestic product government and private industry
+
+1980-96 us department of commerce bureau of economic analysis national economic accounts national income and product accounts table table 116 available at http//wwwbeagov/national/indexhtm as of oct 8 2019
+
+1997-2020 us department of commerce bureau of economic analysis industry economic accounts gross-domestic-product-by-industry accounts real value added by industry available at http//wwwbeagov/industry/indexhtm as of aug 27 2021
+
+civilian labor force
+
+us department of labor bureau of labor statistics current population survey employment status of the civilian noninstitutional population 16 years and over by sex household data table 2 available at http//wwwblsgov/cps/tableshtm#empstat as of aug 23 2021
+
+number of households and average size of households
+
+us department of commerce bureau of the census current population survey table hh-6 average population per household and family 1940 to present available at https//wwwcensusgov/data/tables/time-series/demo/families/householdshtml as of aug 23 2021
+
+mean and median household income
+
+us department of commerce bureau of the census current population survey historical income tables table h-6 regions--all races by median and mean income available at https//wwwcensusgov/data/tables/time-series/demo/income-poverty/historical-income-householdshtml as of sept 17 2021
+
+average household expenditures
+
+us department of labor bureau of labor statistics consumer expenditure survey average annual expenditures all consumer units available at http//wwwblsgov/cexas of aug 27 2021
+
+publications
+national transportation statistics table social and economic characteristics of the united states
+us department of transportation

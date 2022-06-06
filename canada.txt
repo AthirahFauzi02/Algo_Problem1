@@ -1,0 +1,252 @@
+statistics canada has long had the privilege of serving canadians by providing them with high-quality information on society and the economy the pandemic has strengthened statistics canadas commitment to sharing new timely information that gives insights on how covid-19 has impacted canadian households and businesses
+
+covid-19 continues to impact canadians with approximately 132000 hospitalizations and over 35000 deaths to date canadians continue to respond over 30 million people are fully vaccinated despite these efforts the spread of omicron means canadians continue to live with covid-19 but perhaps in a different way as restrictions begin to lift across the country to mark the second year of the pandemic statistics canada is reviewing the major social and economic impacts on the lives of canadians and on canadian businesses and highlighting potential longer-term structural changes moving forward this review builds on previous efforts to track impacts throughout the pandemic including covid-19 in canada a year-end update on social and economic impacts released in december 2021; covid-19 in canada a one-year update on social and economic impacts released to mark the first year of the pandemic; and the social and economic impacts of covid-19 a six-month update
+
+statistics canada is committed to continue tracking and reporting on the ongoing social and economic impacts of the pandemic through new and ongoing data development and analysis illuminating the differential impacts on canadians
+
+anil arora chief statistician of canada
+
+image social and economic impacts of covid-19 timeline
+
+description for figure
+social and economic impacts of covid-19 timeline
+
+march 11th - covid-19 declared a pandemic
+march 25th - canada introduces emergency response benefit cerb
+cumulative employment losses in march and april total 3000000
+april 2020
+
+output is 17% below its pre-pandemic level
+
+retail sales surpass pre-covid-19 levels
+
+second wave beta variant begins
+
+covid-19 vaccinations begin
+canada surpasses 15000 deaths related to covid-19
+output recovers to within 4% of its pre-covid-19 baseline
+employment recovers to within 650000 of its pre-covid-19 level
+january 2021
+
+largest employment decline since initial wave
+march 2021
+
+value of household real estate rises nearly $600 b in q1 2021 up almost a quarter from pre-covid-19 levels
+march/april third wave gamma variant begins
+april 2021
+
+headline consumer inflation surpasses 3%
+september 2021
+
+fourth wave delta variant begins
+80% of eligible canadians are fully vaccinated
+employment recovers to pre-pandemic levels
+november 2021
+
+output recovers to pre-covid-19 baseline
+
+fifth wave omicron variant begins
+
+canada surpasses 33000 deaths related to covid-19
+headline inflation 51% hits 30-year high
+the pandemic has had significant indirect health impacts that will affect the future health of canadians
+mental health declines have not recovered to pre-pandemic levels as of june 2021 61% of canadians reported very good or excellent mental health compared with 67% in 2019 the decline is greater among women -75 percentage points compared with men -40 percentage points
+an estimated 26248 excess deaths were reported in canada from march 2020 to mid-october 2021—58% more deaths than would be expected with no pandemic
+early in the pandemic excess deaths occurred mainly among seniors with covid-19 but later there was an increase among younger canadians as well with many deaths caused by unintentional poisonings and overdoses
+health impacts will be felt for a long time modelling projections show that a six-month delay in colorectal cancer screening could increase cases by 2800 and deaths by 1300 between the years 2020 and 2050 the lancet april 2021
+image estimated percentage of excess and covid-19 deaths by age group canada march 28 2020 to october 16 2021
+
+data table
+estimated percentage of excess and covid-19 deaths by age group canada march 28 2020 to october 16 2021
+table summary
+this table displays the results of estimated percentage of excess and covid-19 deaths the information is grouped by age appearing as row headers excess deaths and covid-19 deaths calculated using percent units of measure appearing as column headers
+age	excess deaths	covid-19 deaths
+source statistics canada special tabulations
+the pandemic has impacted public safety and social cohesion
+while overall crime levels decreased during the pandemic there was a 7% increase between 2020 and 2021 in selected crimes ie assault sexual assault uttering threats robbery motor vehicle theft and shoplifting
+there was a 37% increase in police-reported hate crimes—718 more in 2020 compared with 2019 this is the highest number since comparable data have been available and it reflects crimes targeting black asian and indigenous populations
+social unrest has been linked to income inequality in march and april 2020 40% of canadians were very or extremely concerned about the possibility of civil disorder concern was doubled among those expecting that the pandemic would impact their finances compared with those anticipating no impact 61% vs 32%
+number of police-reported hate crimes by type of motivation canada 2017 to 2020
+
+data table
+number of police-reported hate crimes by type of motivation canada 2017 to 2020
+table summary
+this table displays the results of number of police-reported hate crimes 2017 2018 2019 and 2020 calculated using number units of measure appearing as column headers
+2017	2018	2019	2020
+number
+total	2073	1817	1951	2669
+race or ethnicity	878	793	884	1594
+religion	842	657	613	515
+sexual orientation	204	186	265	259
+sex or gender	32	54	56	46
+other motivationnumber of police-reported hate crimes by type of motivation canada 2017 to 2020 note 1	85	105	94	143
+note 1
+includes mental or physical disability language age and other similar factors eg occupation or political beliefs
+
+return to note 1 referrer
+
+notes hate crime counts from the uniform crime reporting survey include both confirmed and suspected hate crime incidents information in this chart reflects data reported by police services covering 997% of the population of canada the total includes incidents where hate motivation was unknown
+source statistics canada canadian centre for justice and community safety statistics incident-based uniform crime reporting survey
+canadian demographics were hit by the pandemic but are recovering quickly
+in 2020
+
+population growth +04% fell to levels not seen since the first world war annual deaths surpassed 300000 for the first time +8%
+life expectancy went down by 06 years—the largest single-year decline since 1921
+one in five canadian adults said the pandemic made them delay having children or choose to have fewer
+the percentage of population growth from international migration was 68% down from a record high of 85% in 2019
+the largest net loss of non-permanent residents -88901 was caused by declines in student- and work-permit holders
+more canadians returned to live rather than leaving the country—net emigration was negative -13997 for the first time since comparable records have been available
+although the pandemic weakened the countrys population growth in 2020 data from the 2021 census show that canadas population grew at almost twice the pace of other g7 countries from 2016 to 2021—18 million more than in 2016 +52% most of the growth was caused by immigration before the pandemic since mid-2021 immigration numbers have been recovering to pre-pandemic levels
+
+image factors of population growth canada first quarter of 2017 to third quarter of 2021
+
+data table
+factors of population growth canada first quarter of 2017 to third quarter of 2021
+table summary
+this table displays the results of factors of population growth natural increase and net international migration calculated using persons units of measure appearing as column headers
+natural increase	net international migration
+persons
+source statistics canada tables 17-10-0059-01 and 17-10-0040-01
+more stress on pocketbooks as supply disruptions and strong demand continue to fuel consumer inflation
+headline consumer inflation +51% was at a 30-year high in january 2022
+prices for food and shelter rose steadily over 2021 in january annual price increases for both food +57% and shelter +62% were above the headline rate grocery prices rose at their fastest yearly pace +65% since may 2009
+excluding gasoline consumer price growth was 43% in january the largest yearly increase since this index became available in 1999
+consumer inflation has outpaced average wage growth since the spring of 2021
+the annual increase in average hourly wages adjusted for changes in composition of employment during the pandemic was 27% in january unadjusted for these changes average hourly wages rose 24%
+image average hourly wages and consumer prices
+
+data table
+average hourly wages and consumer prices
+table summary
+this table displays the results of average hourly wages and consumer prices average hourly wages fixed-weight measure and consumer price index calculated using index january 2018=100 units of measure appearing as column headers
+average hourly wages fixed-weight measure	consumer price index
+notes average hourly wages labour force survey fixed-weight one-year percent change january 2021 to january 2022 27%
+consumer price index one-year percent change january 2021 to january 2022 51%
+sources statistics canada labour force survey special tabulations and table 18-10-0004-01
+the costs of middle-class membership rise as home prices continue to surge across the country
+homebuilders in a majority of census metropolitan areas reported double-digit increases in new home prices during 2021 annual increases exceeded 20% in windsor winnipeg ottawa and london and 30% in kitchener–cambridge–waterloo
+the canadian real estate associations multiple listing service home price index was up 266% on a year-over-year basis in december 2021 home prices in the greater toronto area were up over 30%
+analysis at the bank of canada indicates that the share of home purchases accounted for by first-time buyers has continued to edge down during the pandemic while the shares for repeat buyers and investors have risen 
+according to rbc economics housing affordability in the third quarter of 2021 was at a 31-year low cibc economics has reported that about 30% of first-time buyers have received down payment gifts
+financial barriers to homeownership may have lasting impacts on social and economic mobility on a per-household basis homeowners have seen their wealth rise by over $260000 during the pandemic while renters have seen gains of $50000
+image net worth per household fourth quarter of 2019 and third quarter of 2021
+
+data table
+net worth per household fourth quarter of 2019 and third quarter of 2021
+table summary
+this table displays the results of net worth per household fourth quarter of 2019 and third quarter of 2021 calculated using dollars units of measure appearing as column headers
+fourth quarter of 2019	third quarter of 2021
+dollars
+renters	218200	267708
+owners with mortgage	744271	945380
+all households	787907	981932
+owners without mortgage	1474027	1810574
+source statistics canada table 36-10-0660-01
+labour market conditions improved for diverse canadians in the second half of 2021
+lockdown measures earlier in the pandemic disproportionately impacted diverse canadians—including newcomers and many canadians in racialized communities—who are more likely to work in high-contact settings job recovery strengthened for many diverse groups in the second half of 2021
+employment rates among many groups designated as visible minorities including southeast asian black and filipino canadians rose notably during 2021
+the share of very recent immigrants of core working age who were working was almost 8 percentage points higher in december 2021 than in december 2019
+employment among indigenous people in canada in december was up 10% year over year 
+the impact of omicron in january 2022 was widely felt the decline in the employment rate for core-aged members of groups designated as visible minorities -16 percentage points to 798% was similar to the decline observed for canadians who do not identify as a visible minority and are not indigenous -15 percentage points to 846% 
+there were impacts on job quality too in january 2022 members of groups designated as visible minorities 85% were more likely than those who did not identify as a visible minority 67% to report that they were planning to leave their job in the next 12 months and to cite low pay as their main reason for doing so
+in the fourth quarter of 2021 nearly half of businesses owned by members of groups designated as visible minorities 484% stated that the absence of government support programs would have a medium-to-high impact on the survival of their business compared with one-third of all canadian businesses
+image unemployment rate by population group designated as a visible minority canada january 2022
+
+data table
+unemployment rate by population group designated as a visible minority canada january 2022
+table summary
+this table displays the results of unemployment rate the information is grouped by population group appearing as row headers unemployment rate calculated using percent units of measure appearing as column headers
+population group	unemployment rate
+percent
+not indigenous or a visible minority	62
+total visible minority	80
+source statistics canada special tabulations
+labour market imbalances will persist as employers and workers continue to adjust
+demand for workers accelerated to record levels during the second half of 2021 job vacancies in the third quarter rose over 60% compared with pre-pandemic levels reflecting increases in all provinces and most industrial sectors
+no “great resignation” in canada in late 2021 the number of job-leavers and job-changers remained comparable to pre-pandemic levels as did the share of unemployed workers who returned to work in the same industry as their last job about 50% in january 2022 fewer than 1 in 10 workers were planning to leave their job over the next 12 months
+businesses are adjusting their hiring strategies—employers appear to be lowering educational requirements to attract workers in late 2021 about 10% of workers who had a high school diploma or less had recently started jobs that typically require university education up from 40% in late 2019
+businesses are adjusting their wage plans in the two years leading up to november 2021 wages among new hires rose by 10% compared with 64% for established employees in the fourth quarter of 2021 almost half of businesses reported that they planned to raise wages for existing employees over the coming year while one-quarter planned to increase wages offered to new employees
+image job vacancy rates third quarter of 2019 and third quarter of 2021
+
+data table
+job vacancy rates third quarter of 2019 and third quarter of 2021
+table summary
+this table displays the results of job vacancy rates third quarter of 2019 third quarter of 2021 job vacancies and percent growth from third quarter of 2019 to third quarter of 2021 calculated using percent units of measure appearing as column headers
+third quarter of 2019	third quarter of 2021	job vacancies	percent growth from third quarter of 2019 to third quarter of 2021
+percent
+all industries	33	54	912600	62
+accommodation and food services	52	129	163000	113
+health care and social assistance	31	52	118200	79
+retail trade	34	50	104100	45
+manufacturing	30	50	81200	62
+construction	36	63	75300	84
+note the numbers in bold are the number of reported job vacancies in q3 2021 and the percentage increase since q3 2019
+source statistic canada table 14-10-0326-01
+longer-lasting impacts of the pandemic on work are likely to exacerbate existing inequalities
+about 40% of canadians hold permanent pandemic-resilient jobs that are less likely to be impacted by automation triple-protected jobs higher-paid more educated workers are far more likely to hold these jobs
+couples in the top 10% of the earnings distribution were about 20 times more likely to have triple-protected jobs than couples in the bottom 10%
+couples with postsecondary degrees were seven times more likely to hold triple-protected jobs than couples without postsecondary credentials
+challenges to job and income stability continue to persist in lower-paying high-contact sectors
+while total employment rebounded to pre-covid-19 levels in september 2021 employment in accommodation and food services remained 211000 below pre-pandemic levels as of december that year this was before additional losses of 113000 in january 2022 when tighter restrictions related to omicron were in effect
+conversely employment in professional technical and scientific services—a sector with some of the highest levels of job flexibility and telework capacity—has risen by 179000 since the start of the pandemic
+image job is triple protected by wage decile
+
+data table
+job is triple protected by wage decile
+table summary
+this table displays the results of job is triple protected the information is grouped by wage decile appearing as row headers job is triple protected calculated using percent units of measure appearing as column headers
+wage decile	job is triple protected
+source frenette m and r morissette 2021 job security in the age of artificial intelligence and potential pandemics economic and social reports statistics canada catalogue no 36-28-0001
+financial uncertainties deepen for many businesses as emergency support programs wind down
+emergency programs have been a critical lifeline for many businesses during the pandemic business insolvencies have remained below pre-covid-19 levels but rose 37% in the fourth quarter of 2021
+during the fourth quarter of 2021 one-third of businesses reported that the absence of government support programs over the next 12 months would have a medium-to-high impact on their survival this includes almost two-thirds of those in accommodation and food services and 40% of businesses with 5 to 19 employees
+about 15% of all businesses reported that it would be a major challenge to pay off funding received from repayable government support programs over the next 12 months including almost 40% of those in accommodation and food services 
+financial stresses may become more acute as cost pressures continue to rise in the fourth quarter 43% of businesses expected rising input costs to be an obstacle in the coming months including 71% of manufacturers and two-thirds of businesses in accommodation and food services
+image share of businesses reporting that the absence of government support programs in the next 12 months would have a medium-to-high impact on their business survival fourth quarter of 2021
+
+data table
+share of businesses reporting that the absence of government support programs in the next 12 months would have a medium-to-high impact on their business survival fourth quarter of 2021
+table summary
+this table displays the results of share of businesses reporting that the absence of government support programs in the next 12 months would have a medium-to-high impact on their business survival the information is grouped by industry appearing as row headers fourth quarter of 2021 calculated using percent units of measure appearing as column headers
+industry	fourth quarter of 2021
+percent
+all industries	333
+accommodation and food services	637
+arts entertainment and recreation	590
+manufacturing	383
+retail trade	334
+information and cultural industries	331
+transportation and warehousing	330
+health care and social assistance	327
+administrative and support waste
+management and remediation services	324
+construction	290
+mining quarrying and oil and gas extraction	239
+real estate and rental and leasing	236
+professional scientific and technical services	233
+finance and insurance	116
+source statistics canada table 33-10-0417-01
+impacts of the pandemic on canadian competitiveness remain an open question
+business productivity has fallen back to pre-pandemic levels the sharp increase in productivity early in the pandemic in part reflected the shift in hours worked from less to more productive industries when many non-essential businesses were shuttered business productivity has declined since mid-2020 as non-essential businesses ramped up their activities
+overall business productivity in the fourth quarter of 2021 was 12% below levels observed in late 2019 
+growing pressures on cost competitiveness unit labour costs in the business sector which measure the payments to labour required to produce a unit of output were up 60% year-over-year in the fourth quarter of 2021 and have trended higher over the course of the pandemic
+non-residential business investment has been slow to recover important drivers of productivity and wage growth non-residential outlays on structures and machinery and equipment were still 62% below pre-pandemic levels in late 2021 and down nearly one quarter from levels observed before the oil price shock in the mid-2010s 
+business spending on research and development scaled back during the second half of 2021 and was 11% below pre-pandemic levels late in the year 
+investments in digital technologies and the longer-term impacts of working from home may be important factors affecting business competitiveness 
+image hours worked in canadian businesses rebound faster than real output
+
+data table
+hours worked in canadian businesses rebound faster than real output
+table summary
+this table displays the results of hours worked in canadian businesses rebound faster than real output real gross domestic product hours worked and labour productivity calculated using quarterly percent change units of measure appearing as column headers
+real gross domestic product	hours worked	labour productivity
+quarterly percent change
+looking forward
+the unintended health impacts of covid-19 restrictions along with the impacts of post covid-19 condition will be felt for years and will continue to strain health care resources
+recent protests against pandemic restrictions are indicative of growing divisions among canadians and the potential long-term impacts on social cohesion are difficult to predict
+canadas population grew at almost twice the pace of other g7 countries from 2016 to 2021 primarily from immigration prior to the pandemic lower immigration during covid-19 coupled with structural pressures related to population aging will continue to impact labour market imbalances
+to what extent will the accelerated shift towards automation and digital technologies in low-wage sectors create new employment opportunities?
+high inflation and modest wage gains suggest that pressures related to affordability will worsen in the near term—especially if prices for food and shelter continue to rise
+financial barriers to homeownership may have lasting impacts on social and economic mobility especially for new canadians and younger families
+as targeted wage subsidies and lockdown supports wind down businesses in high-contact sectors face continued uncertainty as input costs rise and vacancies remain near record levels 
+will digitalization and working from home lead to permanent increases in businesses productivity?
